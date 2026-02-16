@@ -6,7 +6,7 @@ Este repositorio contiene la práctica de Auditoría de Configuración y Release
 * Olmes Aguilar
 
 ## Roles Asumidos
-* Auditor Físico: (Tu nombre)
-* Auditor Funcional: (Tu nombre)
-* Gestor de Trazabilidad: (Tu nombre)
-* Gestor de Release: (Tu nombre)
+* Auditor Físico: Olmes Aguilar
+* Auditor Funcional: Olmes Aguilar
+* Gestor de Trazabilidad: Olmes Aguilar
+* Gestor de Release: Olmes Aguilar
